@@ -1,0 +1,24 @@
+{
+  "version": "0.0.0",
+  "name": "Sam-Application",
+  "manifest_version": 2,
+  "description": "Build for you Sam",
+  "browser_action": {
+    "default_title": "Upwork Sam Application",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "img/icon-16.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  },
+  "web_accessible_resources": [
+    "inject.html"
+  ],
+  "background": {
+    "page": "background.html"
+  }, 
+  "permissions": [ "contextMenus", "management", "tabs","https://www.etsy.com/*", "storage", "https://github.com/*","https://openapi.etsy.com/*" ]
+  
+   
+}
