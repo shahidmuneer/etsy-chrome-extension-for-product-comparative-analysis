@@ -2,4 +2,4 @@
 
 ## Etsy is a multi commerce website. The extension uses the API to analyze the product and give user comparative anlysis ability with different product. 
 
-![alt text](https://ibb.co/5MtTg6R)
+![alt text](https://i.ibb.co/h7hsJym/etsy-extensiono.png)
